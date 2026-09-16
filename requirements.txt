@@ -1,0 +1,8 @@
+# requirements.txt
+
+# No external packages required.
+# The project uses Python standard libraries:
+# - tkinter
+# - csv
+# - messagebox
+# - ttk
