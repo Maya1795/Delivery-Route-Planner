@@ -1,0 +1,13 @@
+VALID DELIVERIES
+Trip,Delivery ID,Area,Priority,Package Weight (kg),Trip Total (kg),Remaining Capacity (kg)
+1,2,Maadi,1,2.0,5.5,4.5
+1,5,Maadi,2,3.5,5.5,4.5
+2,4,Zamalek,1,7.0,7.0,3.0
+3,1,Nasr City,2,4.5,4.5,5.5
+4,3,Nasr City,3,6.2,6.2,3.8
+
+REJECTED DELIVERIES
+Delivery ID,Area,Priority,Package Weight (kg),Reason
+6,Zamalek,3,12.0,Package exceeds vehicle capacity of 10 kg
+7,Missing,1,5.2,Missing Area
+8,Missing,2,Missing,"Missing Area, Missing Weight"
