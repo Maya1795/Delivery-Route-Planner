@@ -45,7 +45,8 @@ delivery-route-planner/
 │
 ├── data/
 │   ├── deliveries.csv
-│   └── deliveries - empty.csv
+│   ├── deliveries - empty.csv
+│   └── exported_trips.csv
 │
 ├── screenshot/
 │   ├── generated_trips.png
